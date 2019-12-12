@@ -32,20 +32,11 @@ namespace FootballCRUD.Web.Controllers
         {
             return _playerList;
         }
-
+ 
         [HttpGet("{id}")]
-        public  ActionResult<Player> Get(int id)
-        {
-            var player = new Player();
-
-            foreach (var p in _playerList)
-            {
-                if (p.Id == id)
-                {
-                    player = p;
-                }
-            }
-
+        public ActionResult<Player> Get(int id)
+        {    
+            var player = _playerList.FirstOrDefault(p => p.Id == id);
             return player;
         }
     }
