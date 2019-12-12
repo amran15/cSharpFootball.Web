@@ -14,6 +14,7 @@ namespace FootballCRUD.Web
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            Guid guid = Guid.NewGuid(); // generate a new id for players 
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
