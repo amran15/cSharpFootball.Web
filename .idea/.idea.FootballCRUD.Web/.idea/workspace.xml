@@ -5,7 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FootballCRUD.Web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FootballCRUD.Web/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FootballCRUD.Web/Controllers/PlayersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FootballCRUD.Web/Controllers/PlayersController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FootballCRUD.Web/Controllers/TeamsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FootballCRUD.Web/Controllers/TeamsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FootballCRUD.Web/Models/Team.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FootballCRUD.Web/Models/Team.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FootballCRUD.Web/FootballCRUD.Web.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FootballCRUD.Web/FootballCRUD.Web.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FootballCRUD.Web/Models/Enums/Positions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FootballCRUD.Web/Models/Enums/Positions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FootballCRUD.Web/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FootballCRUD.Web/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FootballCRUD.Web/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FootballCRUD.Web/Startup.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +23,18 @@
     <setting file="file://$PROJECT_DIR$/FootballCRUD.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FootballCRUD.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D5BACBD-2C6F-4653-8501-54690F8ED19F/43/94014707/Controller.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A76AC4F3-7222-4DA6-B0CA-CCACDB728DC8/4f/7c644269/ObjectResult.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FootballCRUD.Web/Models/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FootballCRUD.Web/Controllers/PlayersController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623AD323-590B-41E0-B4A1-CCB8F3313607/43/0983c437/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FootballCRUD.Web/Models/Team.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A76AC4F3-7222-4DA6-B0CA-CCACDB728DC8/b5/c5d8f8a1/OkObjectResult.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FootballCRUD.Web/Models/Enums/Positions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A76AC4F3-7222-4DA6-B0CA-CCACDB728DC8/f3/63157ff5/IConvertToActionResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A76AC4F3-7222-4DA6-B0CA-CCACDB728DC8/2e/a07f1dc4/ActionResult`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A76AC4F3-7222-4DA6-B0CA-CCACDB728DC8/41/028c442c/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FootballCRUD.Web/Controllers/TeamsController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -35,17 +43,18 @@
         <option value="$PROJECT_DIR$/FootballCRUD.Web/ClientApp/src/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/FootballCRUD.Web/WeatherForecast.cs" />
         <option value="$PROJECT_DIR$/FootballCRUD.Web/Controllers/WeatherForecastController.cs" />
-        <option value="$PROJECT_DIR$/FootballCRUD.Web/Program.cs" />
         <option value="$PROJECT_DIR$/FootballCRUD.Web/Player.cs" />
-        <option value="$PROJECT_DIR$/FootballCRUD.Web/Models/Enums/Positions.cs" />
         <option value="$PROJECT_DIR$/FootballCRUD.Web/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/FootballCRUD.Web/Controllers/PlayerController.cs" />
         <option value="$PROJECT_DIR$/FootballCRUD.Web/Controllers/Teams.cs" />
-        <option value="$PROJECT_DIR$/FootballCRUD.Web/Models/Player.cs" />
         <option value="$PROJECT_DIR$/FootballCRUD.Web/Models/Team1.cs" />
+        <option value="$PROJECT_DIR$/FootballCRUD.Web/Program.cs" />
+        <option value="$PROJECT_DIR$/FootballCRUD.Web/Models/Enums/Positions.cs" />
+        <option value="$PROJECT_DIR$/FootballCRUD.Web/Startup.cs" />
         <option value="$PROJECT_DIR$/FootballCRUD.Web/Models/Team.cs" />
-        <option value="$PROJECT_DIR$/FootballCRUD.Web/Controllers/TeamsController.cs" />
+        <option value="$PROJECT_DIR$/FootballCRUD.Web/Models/Player.cs" />
         <option value="$PROJECT_DIR$/FootballCRUD.Web/Controllers/PlayersController.cs" />
+        <option value="$PROJECT_DIR$/FootballCRUD.Web/Controllers/TeamsController.cs" />
       </list>
     </option>
   </component>
@@ -111,21 +120,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576096029079</updated>
-      <workItem from="1576096030354" duration="18448000" />
+      <workItem from="1576096030354" duration="25961000" />
+      <workItem from="1576176720472" duration="6834000" />
+      <workItem from="1576209835638" duration="637000" />
+      <workItem from="1576210479821" duration="9972000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
