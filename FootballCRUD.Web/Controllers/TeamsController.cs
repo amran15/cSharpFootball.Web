@@ -45,7 +45,7 @@ namespace FootballCRUD.Web.Controllers
             var teamToRemove = _teamList.SingleOrDefault(t => t.Id == id);
             _teamList.Remove(teamToRemove);
             // return statusCode of 204 ?
-            return Ok(_teamList);
+            return Ok(_teamList); 
         }
 
     }

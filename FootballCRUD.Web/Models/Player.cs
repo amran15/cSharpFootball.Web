@@ -5,12 +5,12 @@ namespace FootballCRUD.Web.Models
 {
     public class Player
     {
-        public int Id { get; set; } // change back to Guid after researching it
+        public int Id { get; set; } // change to Guid instead of Id
 
         public string FirstName { get; set; }
         
         public string LastName { get; set; }
        
-        public Positions Position { get; set; } //make public enum that holds all the position in FB 
+        public Positions Position { get; set; } 
     }
 }
